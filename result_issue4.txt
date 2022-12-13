@@ -1,0 +1,13 @@
+PS C:\Users\User\Desktop\Авито\avito_academy\aaa-python-test> & C:/Users/User/AppData/Local/Programs/Python/Python37/python.exe -m pytest -v .\pytest_ohe.py
+==================================================================================== test session starts ====================================================================================
+platform win32 -- Python 3.7.8, pytest-7.2.0, pluggy-1.0.0 -- C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\User\Desktop\Авито\avito_academy\aaa-python-test
+collected 4 items
+
+pytest_ohe.py::test_ft PASSED                                                                                                                                                          [ 25%] 
+pytest_ohe.py::test_nums PASSED                                                                                                                                                        [ 50%] 
+pytest_ohe.py::test_empty_value PASSED                                                                                                                                                 [ 75%] 
+pytest_ohe.py::test_raises_error PASSED                                                                                                                                                [100%] 
+
+===================================================================================== 4 passed in 0.05s =====================================================================================

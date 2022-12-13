@@ -1,0 +1,12 @@
+ C:/Users/User/AppData/Local/Programs/Python/Python37/python.exe -m pytest -v test_morse.py
+============================================================================================ test session starts ============================================================================================
+platform win32 -- Python 3.7.8, pytest-7.2.0, pluggy-1.0.0 -- C:\Users\User\AppData\Local\Programs\Python\Python37\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\User\Desktop\Авито\avito_academy\aaa-python-test
+collected 3 items
+
+test_morse.py::test_decode[-- .- ..-MAI] PASSED                                                                                                                                                        [ 33%] 
+test_morse.py::test_decode[... --- ...-SOS] PASSED                                                                                                                                                     [ 66%] 
+test_morse.py::test_decode[-] PASSED                                                                                                                                                                   [100%] 
+
+============================================================================================= 3 passed in 0.04s ============================================================================================= 

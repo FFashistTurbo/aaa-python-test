@@ -1,0 +1,10 @@
+PS C:\Users\User\Desktop\Авито\avito_academy\aaa-python-test> & C:/Users/User/AppData/Local/Programs/Python/Python37/python.exe -m unittest -v test_ohe.py                                    
+test_empty_value (test_ohe.TestOhe) ... ok
+test_ft (test_ohe.TestOhe) ... ok
+test_nums (test_ohe.TestOhe) ... ok
+test_raises_error (test_ohe.TestOhe) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
